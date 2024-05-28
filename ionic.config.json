@@ -1,0 +1,7 @@
+{
+  "name": "havadurumu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
